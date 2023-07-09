@@ -6,3 +6,22 @@
     color: blue;
     
 }
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.box
+{
+    padding: 20px;
+    background-color: aquamarine;
+    width: 110px;
+     margin: 5px;
+}
+.box2{
+    background-color: pink;
+}
+.box3{
+    background-color: skyblue;
+}
